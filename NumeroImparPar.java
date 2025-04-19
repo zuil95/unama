@@ -1,16 +1,3 @@
-// import java.util.Scanner;
-
-// public class Oi {
-//     public static void main(String[] args){
-//         Scanner sc = new Scanner(System.in);
-//         System.out.print("digite um numero interiro: ");
-        
-
-//         int numero = sc.nextInt();
-//         if 
-//     }
-// }
-
 
 import java.util.Scanner; //biblioteca que scaneia o teclado.
 
